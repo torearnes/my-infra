@@ -1,2 +1,0 @@
-export PM_USER="terraform-prov@pve"
-export PM_PASS="M6fvVUbuntu"
